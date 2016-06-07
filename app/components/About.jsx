@@ -12,7 +12,7 @@ var About = (props) => {
   return (
     <div>
       <h3>About</h3>
-      <p>Welcome to my small Weather app, using ReactJS and <a href="http://www.penweathermap.org">Openweathermap.org</a></p>
+      <p>Welcome to my small Weather app, using ReactJS and <a href="http://www.openweathermap.org" target="_blank">Openweathermap.org</a></p>
     </div>
   )
 };
