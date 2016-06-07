@@ -10,7 +10,10 @@ var React = require('react');
 
 var About = (props) => {
   return (
-    <h3>About component</h3>
+    <div>
+      <h3>About</h3>
+      <p>Welcome to my small Weather app, using ReactJS and <a href="http://www.penweathermap.org">Openweathermap.org</a></p>
+    </div>
   )
 };
 
